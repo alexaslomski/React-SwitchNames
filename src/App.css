@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+P {
+  font-size: 20px;
+  color: orange;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 34px;
+  color: red;
+}
+
+button {
+  background: purple;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border: 2px solid yellow;
+}
+
